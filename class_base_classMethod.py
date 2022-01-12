@@ -31,5 +31,4 @@ class Car(Door):
         print(f"車子座位:{self.seat}")
 
 Toyota = Car("Red",4)
-
 Toyota.drive()
